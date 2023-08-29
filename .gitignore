@@ -1,0 +1,56 @@
+# Project-specific Files
+
+# Build results
+[Dd]ebug/
+[Dd]ebugPublic/
+[Rr]elease/
+[Rr]eleases/
+x64/
+x86/
+[Ww][Ii][Nn]32/
+[Aa][Rr][Mm]/
+[Aa][Rr][Mm]64/
+bld/
+[Bb]in/
+[Oo]bj/
+[Oo]ut/
+[Ll]og/
+[Ll]ogs/
+
+# Text editors and IDEs
+*~
+*.lock
+*.swp
+.vscode
+.ropeproject/
+.vscode/
+.vs/
+
+# Python
+*.pyc
+__pycache__/
+*.egg-info*
+dist/
+env/
+venv/
+venv3/
+.venv/
+.pytest_cache
+
+# JavaScript
+bundle.js
+*node_modules*
+files_for_autograder_io/
+*/var/*
+
+# macOS system files
+*.DS_Store
+
+# User-specific files
+*.rsuser
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+mono_crash.*
+*.userprefs
