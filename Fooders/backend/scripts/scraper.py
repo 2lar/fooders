@@ -1,0 +1,1 @@
+# find url with string and import and convert to use in firebase
